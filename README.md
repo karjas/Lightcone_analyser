@@ -16,7 +16,7 @@ PIL (v. 12.3.0)
 After the packages are installed, the script can simply be run with 'python3 visu3.py'.
 
 This should open the window shown below
-[Initial view of the program](Pictures/overlay.png)
+![Initial view of the program](Pictures/overlay.png)
 
 The sliders control the magnitude of the wavevector, which corresponds to the energy, and the period of the structure.
 
